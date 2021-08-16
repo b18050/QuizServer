@@ -1,0 +1,60 @@
+1
+MCQ
+Which one of the following is not shared by threads? A) program counter B) stack C) both program counter and stack D) NOTA
+C
+Explanation for this question is not available.
+question end
+2
+MCQ
+A process can be _______? A) single threaded B) multithreaded C) both single threaded and multithreaded D) NOTA
+C
+Explanation for this question is not available.
+question end
+3
+FIB
+The jacketing technique is used to _____.
+convert a blocking system call into non blocking system call.
+Explanation for this question is not available.
+question end
+4
+MCQ
+When the event for which a thread is blocked occurs? A) thread moves to the ready queue B) thread remains blocked C) thread completes
+A
+Explanation for this question is not available.
+question end
+5
+MCQ
+Which one of the following is not a valid state of a thread? A) running B) parsing C) ready D) blocked
+B
+Explanation for this question is not available.
+question end
+6
+MCQ
+The register context and stacks of a thread are deallocated when the thread? A) terminates B) blocks C) unblocks D) spawns
+A
+Explanation for this question is not available.
+question end
+7
+MCQ
+What is the maximum length of the filename in DOS? A) 4 B) 5 C) 8 D) 12
+C
+The maximum length of the filename is 8 characters in the DOS operating system.
+question end
+8
+MCQ
+Banker's algorithm is used? A) To prevent deadlock B) To deadlock recovery C) To solve the deadlock D) None of these 
+A
+Banker algorithm is used to determine whether a loan can be granted in the banking system or not.
+question end
+9
+FIB
+The strategy of making processes that are logically runnable to be temporarily suspended is called ______.
+preemptive scheduling
+Explanation for this question is not available.
+question end
+10
+MCQ
+Which of the following is a condition that causes deadlock? A) Mutual exclusion B) Hold and wait C) No preemption D) All of these
+D
+All of these are conditions for deadlock
+question end

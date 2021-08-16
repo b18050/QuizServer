@@ -1,0 +1,60 @@
+1
+MCQ
+Which module gives control of the CPU to the process selected by the short-term scheduler? A) dispatcher B) interrupt C) scheduler D) NOTA
+A
+Explanation none.
+question end
+2
+MCQ
+Complex scheduling algorithms __? A) are appropriate for very large computers B) use minimal resources C) use many resources D) all of the above
+A
+Large computers are overloaded with a greater number of processes.
+question end
+3
+FIB
+The strategy of making processes that are logically runnable to be temporarily suspended is called ______.
+Preemptive scheduling
+Explanation for this question is not available.
+question end
+4
+MCQ
+What is Scheduling? A) allowing a job to use the processor B) making proper use of processor C) all of the mentioned D) none
+D
+Explanation for this question is not available.
+question end
+5
+FIB
+Orders are processed in the sequence they arrive if _______ rule sequences the jobs.
+first come, first serve
+Explanation for this question is not available.
+question end
+6
+MCQ
+Which of the following algorithms tends to minimize the process flow time? A) FCFS B) SJF C) EDF D) LJF
+C
+Explanation for this question is not available.
+question end
+7
+MCQ
+Which of the following is a condition that causes deadlock? A) Mutual exclusion B) Hold and wait C) No preemption D) All of these
+D
+All of these are conditions for deadlock
+question end
+8
+FIB
+the interface to access the services of the operating system is provided by ____?
+System call
+The system call provides an interface for user programs to access the services of the operating system through the API
+question end
+9
+MCQ
+Who among the following can block the running process? A) Fork B) Read C) Down D) All of these
+D
+All of these can block the running process
+question end
+10
+MCQ
+Which memory allocation policy allocate the largest hole to the process? A) Best-Fit B) Worst-Fit C) First-Fit D) None of them
+B
+It scans memory from the beginning and chooses the first available block that is large enough. Thus it allocates the first hole that is large enough.
+question end

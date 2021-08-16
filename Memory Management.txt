@@ -1,0 +1,60 @@
+1
+MCQ
+Which of the following requires a device driver? A) Register B) Cache C) Main memory D) Disk
+D
+A disk driver is software which enables communication between internal hard disk (or drive) and computer.
+question end
+2
+MCQ
+CPU fetches the instruction from memory according to the value of __? A) program counter B) status register C) instruction register D) NOTA
+A
+None
+question end
+3
+MCQ
+The chunks of a memory are known as? A) Sector B) Offset C) Page D) Frame
+D
+In a memory system employing paging, the chunks of a process (called frames) can be assigned to available chunks.
+question end
+4
+MCQ
+What is the maximum length of the filename in DOS? A) 4 B) 5 C) 8 D) 12
+C
+The maximum length of the filename is 8 characters in the DOS operating system.
+question end
+5
+MCQ
+When the event for which a thread is blocked occurs? A) thread moves to the ready queue B) thread remains blocked C) thread completes
+A
+Explanation for this question is not available.
+question end
+6
+MCQ
+Who among the following can block the running process? A) Fork B) Read C) Down D) All of these
+D
+All of these can block the running process
+question end
+7
+MCQ
+Which memory allocation policy allocate the largest hole to the process? A) Best-Fit B) Worst-Fit C) First-Fit D) None of them
+B
+It scans memory from the beginning and chooses the first available block that is large enough. Thus it allocates the first hole that is large enough.
+question end
+8
+MCQ
+Banker's algorithm is used? A) To prevent deadlock B) To deadlock recovery C) To solve the deadlock D) None of these 
+A
+Banker algorithm is used to determine whether a loan can be granted in the banking system or not.
+question end
+9
+MCQ
+Which of the following is a condition that causes deadlock? A) Mutual exclusion B) Hold and wait C) No preemption D) All of these
+D
+All of these are conditions for deadlock
+question end
+10
+FIB
+The interface to access the services of the operating system is provided by ____?
+System call
+The system call provides an interface for user programs to access the services of the operating system through the API
+question end
